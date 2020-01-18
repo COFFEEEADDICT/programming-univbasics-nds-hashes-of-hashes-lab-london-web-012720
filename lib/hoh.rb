@@ -42,9 +42,9 @@ earth = {
 
   :label=> "Order"},
 
-   :PORTION_3 => {label: "Family", sub_category: {label: "Genus",} },
+   :label=> "Family", sub_category: {label: "Genus",} },
 
-   :PORTION_4 => {label: "Species",sub_category: nil}
+   :label=> "Species",sub_category: nil}
 
         }
 
